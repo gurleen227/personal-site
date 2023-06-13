@@ -1,0 +1,25 @@
+body {
+    background-image: url('/assets/flowers.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.profile-img{
+    border-radius: 50%;
+}
+
+.profile{
+  display: block;
+  padding-top: 100%;
+}
+
+h1{
+  padding: 10%;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+  padding: 5%;
+  font-family: 'Courier New', Courier, monospace;
+}
